@@ -1,4 +1,4 @@
-﻿# Dependencies
+# Dependencies
 node_modules/
 
 # Environment Variables
@@ -15,3 +15,7 @@ userRoles.json
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Git
+.git
+.gitignore
