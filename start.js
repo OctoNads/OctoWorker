@@ -131,7 +131,7 @@ client.once('ready', async () => {
 // ==================== VERIFICATION CHANNEL SETUP ====================
 async function setupVerificationChannel(channel) {
   const embed = new EmbedBuilder()
-    .setTitle('🔐 Welcome! Complete Verification')
+    .setTitle('🔐 Welcome! in Verification')
     .setDescription(
       'To gain full access and participate in our community, please verify yourself by completing a quick CAPTCHA challenge.\n\n' +
       '**Instructions:**\n' +
