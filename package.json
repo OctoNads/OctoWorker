@@ -1,5 +1,3 @@
-
-
 {
   "name": "octobot-unified",
   "version": "1.0.0",
@@ -8,12 +6,7 @@
   "scripts": {
     "start": "node start.js"
   },
-  "keywords": [
-    "discord",
-    "bot",
-    "verification",
-    "role-management"
-  ],
+  "keywords": ["discord", "bot", "verification", "role-management"],
   "author": "OctoNads",
   "license": "MIT",
   "dependencies": {
